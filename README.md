@@ -5,6 +5,8 @@ an "offline-first" shareable application for scriptable sticky notes using "Coll
 ![Collabs Stickers Presentation Shot](./CollabsStickers-Presentation.png)
 
 
+(work in progress)
+
 ## License ##
 
 [MIT License](LICENSE.md)
