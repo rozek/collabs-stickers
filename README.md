@@ -3,3 +3,8 @@
 an "offline-first" shareable application for scriptable sticky notes using "Collabs" for synchronization
 
 ![Collabs Stickers Presentation Shot](./CollabsStickers-Presentation.png)
+
+
+## License ##
+
+[MIT License](LICENSE.md)
