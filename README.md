@@ -5,7 +5,7 @@ an "offline-first" shareable application for scriptable sticky notes using "Coll
 ![Collabs Stickers Presentation Shot](./CollabsStickers-Presentation.png)
 
 
-(work in progress)
+(work in progress, see [note-stickers](https://github.com/rozek/note-stickers) for an unshareable variant of this web application)
 
 ## License ##
 
